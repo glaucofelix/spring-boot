@@ -23,7 +23,6 @@ import br.com.alura.forum.repository.UsuarioRepository;
 public class SecurityConfigurations extends WebSecurityConfigurerAdapter {
 
 	
-	 /** INJETANDO**/
 	@Autowired
 	private AutenticacaoService autenticacaoService;
 	

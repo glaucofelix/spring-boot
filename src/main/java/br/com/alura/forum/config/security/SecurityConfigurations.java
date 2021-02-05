@@ -22,6 +22,8 @@ import br.com.alura.forum.repository.UsuarioRepository;
 @Profile(value = {"prod","test"})
 public class SecurityConfigurations extends WebSecurityConfigurerAdapter {
 
+	
+	 /** INJETANDO**/
 	@Autowired
 	private AutenticacaoService autenticacaoService;
 	

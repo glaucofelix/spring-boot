@@ -1,0 +1,15 @@
+{
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot",
+                "GitHub.copilot-chat",
+                "hashicorp.terraform",
+                "ms-python.python",
+                "amazonwebservices.aws-toolkit-vscode"
+            ]
+        }
+    }
+}

@@ -8,7 +8,12 @@
                 "GitHub.copilot-chat",
                 "hashicorp.terraform",
                 "ms-python.python",
-                "amazonwebservices.aws-toolkit-vscode"
+                "amazonwebservices.aws-toolkit-vscode",
+                "redhat.java",
+                "vscjava.vscode-spring-boot-dashboard",
+                "vscjava.vscode-spring-initializr",
+                "mongodb.mongodb-vscode",
+                "cweijan.vscode-mysql-client2"
             ]
         }
     }
